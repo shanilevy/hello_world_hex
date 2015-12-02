@@ -1,0 +1,2 @@
+%{"decimal": {:hex, :decimal, "0.2.5"},
+  "ex_doc": {:git, "https://github.com/elixir-lang/ex_doc.git", "b439f3c72b27eee770e0f408560b586de4255efc", []}}
